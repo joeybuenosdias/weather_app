@@ -23,3 +23,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+### Project Description
+This project was a Stephen Grider Udemy course, utilizing React, Redux, GoogleMaps API, OpenWeather API, and React Sparklines, axios, and redux promise NPM Packages. The app allows users to enter in any city in the United States into a searchbar, when submitted the app pulls data from the OpenWeather Map API, displays the a map of the selected city using the GoogleMaps API and 3 charts using React Sparklines for the city's temperature, humidity, and pressure. 
+
+>Joey S.
